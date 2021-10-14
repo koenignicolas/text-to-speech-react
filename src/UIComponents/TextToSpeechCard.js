@@ -9,6 +9,7 @@ import TextField from '@mui/material/TextField';
 import MenuItem from '@mui/material/MenuItem';
 import ImageUrl from '../dukke_ilt.png';
 
+
 const genderList = [
     {value: 'Voice'},{ value: 'Female' }, { value: 'Male' } ];
 const TextToSpeechCard = () => {
